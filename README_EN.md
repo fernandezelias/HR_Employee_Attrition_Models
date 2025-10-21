@@ -7,6 +7,14 @@ The goal is to identify the main factors influencing resignation decisions and t
 
 ---
 
+## 🧰 Tech Stack
+- **Language:** Python 3.11  
+- **Libraries:** Pandas, NumPy, Scikit-learn  
+- **Visualization:** Matplotlib, Seaborn  
+- **Environment:** Jupyter Notebook  
+
+---
+
 ## 🎯 Project Objectives
 - Analyze demographic, workplace, and satisfaction-related variables that explain employee turnover.  
 - Train and compare three supervised classification models:  
@@ -53,14 +61,6 @@ The comparison confirms that **class imbalance** strongly impacts minority detec
 Among all models, **Balanced Logistic Regression** achieved the best trade-off between interpretability and sensitivity, while **Random Forest** maintained the highest global precision.  
 
 This project demonstrates the complete **supervised Machine Learning pipeline** —from data exploration and transformation to model interpretation— serving as a baseline example for binary classification in HR analytics.
-
----
-
-## 🧰 Technologies Used
-- Python 3.11  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
 
 ---
 

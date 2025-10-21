@@ -7,6 +7,14 @@ El objetivo es identificar los factores más relevantes que influyen en la decis
 
 ---
 
+## 🧰 Stack Tecnológico
+- **Lenguaje:** Python 3.11  
+- **Librerías:** Pandas, NumPy, Scikit-learn  
+- **Visualización:** Matplotlib, Seaborn  
+- **Entorno:** Jupyter Notebook  
+
+---
+
 ## 🎯 Objetivos del proyecto
 - Analizar variables demográficas, laborales y de satisfacción que puedan explicar la rotación del personal.  
 - Entrenar y comparar tres modelos de clasificación supervisada:  
@@ -53,14 +61,6 @@ El análisis comparativo evidencia que el **desbalance de clases** afecta signif
 Entre los modelos evaluados, la **Regresión Logística balanceada** logra el mejor equilibrio entre interpretabilidad y sensibilidad, mientras que el **Bosque Aleatorio** conserva la mejor precisión global.  
 
 Este proyecto demuestra la aplicación completa del flujo de **Machine Learning supervisado** —desde la exploración y transformación de datos hasta la interpretación de modelos— y constituye un ejemplo base de clasificación binaria en entornos laborales.
-
----
-
-## 🧰 Tecnologías utilizadas
-- Python 3.11  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
-- Scikit-learn  
 
 ---
 
