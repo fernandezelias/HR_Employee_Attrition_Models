@@ -1,6 +1,6 @@
 # 📊 Análisis de Rotación de Empleados (HR Employee Attrition)
 
-🌐 Available in: [English](README_EN.md)
+🌐 Disponible también en inglés: [README_EN.md](README_EN.md)
 
 Este proyecto aplica técnicas de **Machine Learning supervisado** para predecir la **renuncia de empleados (Attrition)** utilizando un dataset clásico de Recursos Humanos.  
 El objetivo es identificar los factores más relevantes que influyen en la decisión de renunciar y comparar distintos modelos de clasificación.
@@ -50,7 +50,7 @@ El objetivo es identificar los factores más relevantes que influyen en la decis
 | Regresión Logística | 0.72–0.86 | 0.27–0.68 | Alta |
 
 - El **Bosque Aleatorio** logra la mayor precisión global y estabilidad.  
-- La **Regresión Logística balanceada** incrementa notablemente la sensibilidad (recall) para la clase minoritaria.  
+- La **Regresión Logística balanceada** incrementa notablemente la sensibilidad (*recall*) para la clase minoritaria.  
 - El **Árbol de Decisión** ofrece la mejor interpretabilidad, pero menor capacidad predictiva.
 
 ---
@@ -71,4 +71,4 @@ Este proyecto demuestra la aplicación completa del flujo de **Machine Learning 
 
 ---
 
-📁 **Repositorio:** HR_Employee_Attrition_Models  
+📁 **Repositorio:** HR_Employee_Attrition_Models
