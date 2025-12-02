@@ -1,6 +1,6 @@
 # 📊 Análisis de Rotación de Empleados (HR Employee Attrition)
 
-🌐 Disponible también en inglés: [README_EN.md](README_EN.md)
+🌐 Available in: [English](README_EN.md)
 
 Este proyecto aplica técnicas de **Machine Learning supervisado** para predecir la **renuncia de empleados (Attrition)** utilizando un dataset clásico de Recursos Humanos.  
 El objetivo es identificar los factores más relevantes que influyen en la decisión de renunciar y comparar distintos modelos de clasificación.
