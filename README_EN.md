@@ -1,6 +1,6 @@
 # 📊 Employee Attrition Analysis – Classification Models
 
-🌐 Available in Spanish: [README.md](README.md)
+🌐 Disponible en: [Español](README.md)
 
 This project applies **supervised Machine Learning techniques** to predict **employee attrition** using a classic Human Resources dataset.  
 The goal is to identify key factors influencing resignation decisions and compare several classification models.
