@@ -67,7 +67,7 @@ This project demonstrates the full **supervised ML workflow** —from data explo
 ## ✍️ Author
 **Elías Fernández**  
 📧 Contact: [fernandezelias86@gmail.com](mailto:fernandezelias86@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/eliasfernandez208)
+🔗 LinkedIn: [Profile](https://www.linkedin.com/in/eliasfernandez208)
 
 ---
 

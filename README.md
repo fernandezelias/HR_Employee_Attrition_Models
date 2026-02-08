@@ -1,4 +1,4 @@
-# 📊 Análisis de Rotación de Empleados (HR Employee Attrition)
+# 📊 Análisis de Rotación de Empleados — Modelos de Clasificación
 
 🌐 Available in [English](README_EN.md)
 
@@ -67,7 +67,7 @@ Este proyecto demuestra la aplicación completa del flujo de **Machine Learning 
 ## ✍️ Autor
 **Elías Fernández**  
 📧 Contacto: [fernandezelias86@gmail.com](mailto:fernandezelias86@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/eliasfernandez208)
+🔗 LinkedIn: [Perfil](https://www.linkedin.com/in/eliasfernandez208)
 
 ---
 
