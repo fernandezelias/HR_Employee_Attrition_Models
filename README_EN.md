@@ -64,11 +64,17 @@ This project demonstrates the full **supervised ML workflow** —from data explo
 
 ---
 
-## ✍️ Author
-**Elías Fernández**  
-📧 Contact: [fernandezelias86@gmail.com](mailto:fernandezelias86@gmail.com)  
-🔗 LinkedIn: [Profile](https://www.linkedin.com/in/eliasfernandez208)
+## 🪪 License
+This project is distributed under the MIT License.  
+See the [LICENSE](LICENSE) file.
 
 ---
 
-📁 **Repository:** HR_Employee_Attrition_Models
+## ✍️ Author
+**Elías Fernández**
+
+---
+
+## 📫 Contact
+📧 [fernandezelias86@gmail.com](mailto:fernandezelias86@gmail.com)  
+🔗 LinkedIn: [Profile](https://www.linkedin.com/in/eliasfernandez208)
