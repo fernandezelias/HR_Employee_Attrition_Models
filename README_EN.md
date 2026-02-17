@@ -55,7 +55,7 @@ The goal is to identify key factors influencing resignation decisions and compar
 
 ---
 
-## 🧠 General Conclusions
+## 🧾 General Conclusions
 
 The comparative analysis shows that **class imbalance** strongly affects attrition detection.  
 Among the evaluated models, the **Balanced Logistic Regression** achieves the best trade-off between interpretability and sensitivity, while the **Random Forest** maintains the best overall accuracy.  
