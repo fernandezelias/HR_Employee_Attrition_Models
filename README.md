@@ -55,7 +55,7 @@ El objetivo es identificar los factores más relevantes que influyen en la decis
 
 ---
 
-## 🧠 Conclusiones generales
+## 🧾 Conclusiones generales
 
 El análisis comparativo evidencia que el **desbalance de clases** afecta significativamente la detección de renuncias.  
 Entre los modelos evaluados, la **Regresión Logística balanceada** logra el mejor equilibrio entre interpretabilidad y sensibilidad, mientras que el **Bosque Aleatorio** conserva la mejor precisión global.  
